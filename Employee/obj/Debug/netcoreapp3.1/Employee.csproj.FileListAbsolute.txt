@@ -1,0 +1,11 @@
+C:\LearnCSharp\Employee\obj\Debug\netcoreapp3.1\Employee.csprojAssemblyReference.cache
+C:\LearnCSharp\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfoInputs.cache
+C:\LearnCSharp\Employee\obj\Debug\netcoreapp3.1\Employee.AssemblyInfo.cs
+C:\LearnCSharp\Employee\bin\Debug\netcoreapp3.1\Employee.exe
+C:\LearnCSharp\Employee\bin\Debug\netcoreapp3.1\Employee.deps.json
+C:\LearnCSharp\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.json
+C:\LearnCSharp\Employee\bin\Debug\netcoreapp3.1\Employee.runtimeconfig.dev.json
+C:\LearnCSharp\Employee\bin\Debug\netcoreapp3.1\Employee.dll
+C:\LearnCSharp\Employee\bin\Debug\netcoreapp3.1\Employee.pdb
+C:\LearnCSharp\Employee\obj\Debug\netcoreapp3.1\Employee.dll
+C:\LearnCSharp\Employee\obj\Debug\netcoreapp3.1\Employee.pdb
