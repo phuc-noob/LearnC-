@@ -1,0 +1,11 @@
+C:\LearnCSharp\LearnCSharp\bin\Debug\netcoreapp3.1\INTROCSHARP.exe
+C:\LearnCSharp\LearnCSharp\bin\Debug\netcoreapp3.1\INTROCSHARP.deps.json
+C:\LearnCSharp\LearnCSharp\bin\Debug\netcoreapp3.1\INTROCSHARP.runtimeconfig.json
+C:\LearnCSharp\LearnCSharp\bin\Debug\netcoreapp3.1\INTROCSHARP.runtimeconfig.dev.json
+C:\LearnCSharp\LearnCSharp\bin\Debug\netcoreapp3.1\INTROCSHARP.dll
+C:\LearnCSharp\LearnCSharp\bin\Debug\netcoreapp3.1\INTROCSHARP.pdb
+C:\LearnCSharp\LearnCSharp\obj\Debug\netcoreapp3.1\INTROCSHARP.AssemblyInfoInputs.cache
+C:\LearnCSharp\LearnCSharp\obj\Debug\netcoreapp3.1\INTROCSHARP.AssemblyInfo.cs
+C:\LearnCSharp\LearnCSharp\obj\Debug\netcoreapp3.1\INTROCSHARP.dll
+C:\LearnCSharp\LearnCSharp\obj\Debug\netcoreapp3.1\INTROCSHARP.pdb
+C:\LearnCSharp\LearnCSharp\obj\Debug\netcoreapp3.1\INTROCSHARP.csprojAssemblyReference.cache
