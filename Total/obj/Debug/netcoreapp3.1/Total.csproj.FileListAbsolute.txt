@@ -1,0 +1,10 @@
+C:\LearnCSharp\Total\obj\Debug\netcoreapp3.1\Total.AssemblyInfoInputs.cache
+C:\LearnCSharp\Total\obj\Debug\netcoreapp3.1\Total.AssemblyInfo.cs
+C:\LearnCSharp\Total\bin\Debug\netcoreapp3.1\Total.exe
+C:\LearnCSharp\Total\bin\Debug\netcoreapp3.1\Total.deps.json
+C:\LearnCSharp\Total\bin\Debug\netcoreapp3.1\Total.runtimeconfig.json
+C:\LearnCSharp\Total\bin\Debug\netcoreapp3.1\Total.runtimeconfig.dev.json
+C:\LearnCSharp\Total\bin\Debug\netcoreapp3.1\Total.dll
+C:\LearnCSharp\Total\bin\Debug\netcoreapp3.1\Total.pdb
+C:\LearnCSharp\Total\obj\Debug\netcoreapp3.1\Total.dll
+C:\LearnCSharp\Total\obj\Debug\netcoreapp3.1\Total.pdb
