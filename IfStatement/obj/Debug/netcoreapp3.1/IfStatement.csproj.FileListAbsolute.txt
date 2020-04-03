@@ -1,0 +1,10 @@
+C:\LearnCSharp\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.exe
+C:\LearnCSharp\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.deps.json
+C:\LearnCSharp\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.json
+C:\LearnCSharp\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.runtimeconfig.dev.json
+C:\LearnCSharp\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.dll
+C:\LearnCSharp\IfStatement\bin\Debug\netcoreapp3.1\IfStatement.pdb
+C:\LearnCSharp\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfoInputs.cache
+C:\LearnCSharp\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.AssemblyInfo.cs
+C:\LearnCSharp\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.dll
+C:\LearnCSharp\IfStatement\obj\Debug\netcoreapp3.1\IfStatement.pdb
