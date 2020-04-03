@@ -1,0 +1,11 @@
+C:\LearnCSharp\divisor\bin\Debug\netcoreapp3.1\divisor.exe
+C:\LearnCSharp\divisor\bin\Debug\netcoreapp3.1\divisor.deps.json
+C:\LearnCSharp\divisor\bin\Debug\netcoreapp3.1\divisor.runtimeconfig.json
+C:\LearnCSharp\divisor\bin\Debug\netcoreapp3.1\divisor.runtimeconfig.dev.json
+C:\LearnCSharp\divisor\bin\Debug\netcoreapp3.1\divisor.dll
+C:\LearnCSharp\divisor\bin\Debug\netcoreapp3.1\divisor.pdb
+C:\LearnCSharp\divisor\obj\Debug\netcoreapp3.1\divisor.csprojAssemblyReference.cache
+C:\LearnCSharp\divisor\obj\Debug\netcoreapp3.1\divisor.AssemblyInfoInputs.cache
+C:\LearnCSharp\divisor\obj\Debug\netcoreapp3.1\divisor.AssemblyInfo.cs
+C:\LearnCSharp\divisor\obj\Debug\netcoreapp3.1\divisor.dll
+C:\LearnCSharp\divisor\obj\Debug\netcoreapp3.1\divisor.pdb
