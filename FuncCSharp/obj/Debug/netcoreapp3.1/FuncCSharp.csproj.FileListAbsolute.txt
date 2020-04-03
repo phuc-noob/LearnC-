@@ -1,0 +1,11 @@
+C:\LearnCSharp\FuncCSharp\bin\Debug\netcoreapp3.1\FuncCSharp.exe
+C:\LearnCSharp\FuncCSharp\bin\Debug\netcoreapp3.1\FuncCSharp.deps.json
+C:\LearnCSharp\FuncCSharp\bin\Debug\netcoreapp3.1\FuncCSharp.runtimeconfig.json
+C:\LearnCSharp\FuncCSharp\bin\Debug\netcoreapp3.1\FuncCSharp.runtimeconfig.dev.json
+C:\LearnCSharp\FuncCSharp\bin\Debug\netcoreapp3.1\FuncCSharp.dll
+C:\LearnCSharp\FuncCSharp\bin\Debug\netcoreapp3.1\FuncCSharp.pdb
+C:\LearnCSharp\FuncCSharp\obj\Debug\netcoreapp3.1\FuncCSharp.csprojAssemblyReference.cache
+C:\LearnCSharp\FuncCSharp\obj\Debug\netcoreapp3.1\FuncCSharp.AssemblyInfoInputs.cache
+C:\LearnCSharp\FuncCSharp\obj\Debug\netcoreapp3.1\FuncCSharp.AssemblyInfo.cs
+C:\LearnCSharp\FuncCSharp\obj\Debug\netcoreapp3.1\FuncCSharp.dll
+C:\LearnCSharp\FuncCSharp\obj\Debug\netcoreapp3.1\FuncCSharp.pdb
