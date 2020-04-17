@@ -1,0 +1,11 @@
+D:\LearnCSharp\phanSo\obj\Debug\netcoreapp3.1\phanSo.csprojAssemblyReference.cache
+D:\LearnCSharp\phanSo\obj\Debug\netcoreapp3.1\phanSo.AssemblyInfoInputs.cache
+D:\LearnCSharp\phanSo\obj\Debug\netcoreapp3.1\phanSo.AssemblyInfo.cs
+D:\LearnCSharp\phanSo\bin\Debug\netcoreapp3.1\phanSo.exe
+D:\LearnCSharp\phanSo\bin\Debug\netcoreapp3.1\phanSo.deps.json
+D:\LearnCSharp\phanSo\bin\Debug\netcoreapp3.1\phanSo.runtimeconfig.json
+D:\LearnCSharp\phanSo\bin\Debug\netcoreapp3.1\phanSo.runtimeconfig.dev.json
+D:\LearnCSharp\phanSo\bin\Debug\netcoreapp3.1\phanSo.dll
+D:\LearnCSharp\phanSo\bin\Debug\netcoreapp3.1\phanSo.pdb
+D:\LearnCSharp\phanSo\obj\Debug\netcoreapp3.1\phanSo.dll
+D:\LearnCSharp\phanSo\obj\Debug\netcoreapp3.1\phanSo.pdb
