@@ -1,0 +1,11 @@
+D:\LearnCSharp\Date\bin\Debug\netcoreapp3.1\Date.exe
+D:\LearnCSharp\Date\bin\Debug\netcoreapp3.1\Date.deps.json
+D:\LearnCSharp\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.json
+D:\LearnCSharp\Date\bin\Debug\netcoreapp3.1\Date.runtimeconfig.dev.json
+D:\LearnCSharp\Date\bin\Debug\netcoreapp3.1\Date.dll
+D:\LearnCSharp\Date\bin\Debug\netcoreapp3.1\Date.pdb
+D:\LearnCSharp\Date\obj\Debug\netcoreapp3.1\Date.csprojAssemblyReference.cache
+D:\LearnCSharp\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfoInputs.cache
+D:\LearnCSharp\Date\obj\Debug\netcoreapp3.1\Date.AssemblyInfo.cs
+D:\LearnCSharp\Date\obj\Debug\netcoreapp3.1\Date.dll
+D:\LearnCSharp\Date\obj\Debug\netcoreapp3.1\Date.pdb
