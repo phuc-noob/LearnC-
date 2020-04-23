@@ -1,0 +1,10 @@
+D:\LearnCSharp\Oop_KeThua_DongVat\bin\Debug\netcoreapp3.1\Oop_KeThua_DongVat.exe
+D:\LearnCSharp\Oop_KeThua_DongVat\bin\Debug\netcoreapp3.1\Oop_KeThua_DongVat.deps.json
+D:\LearnCSharp\Oop_KeThua_DongVat\bin\Debug\netcoreapp3.1\Oop_KeThua_DongVat.runtimeconfig.json
+D:\LearnCSharp\Oop_KeThua_DongVat\bin\Debug\netcoreapp3.1\Oop_KeThua_DongVat.runtimeconfig.dev.json
+D:\LearnCSharp\Oop_KeThua_DongVat\bin\Debug\netcoreapp3.1\Oop_KeThua_DongVat.dll
+D:\LearnCSharp\Oop_KeThua_DongVat\bin\Debug\netcoreapp3.1\Oop_KeThua_DongVat.pdb
+D:\LearnCSharp\Oop_KeThua_DongVat\obj\Debug\netcoreapp3.1\Oop_KeThua_DongVat.AssemblyInfoInputs.cache
+D:\LearnCSharp\Oop_KeThua_DongVat\obj\Debug\netcoreapp3.1\Oop_KeThua_DongVat.AssemblyInfo.cs
+D:\LearnCSharp\Oop_KeThua_DongVat\obj\Debug\netcoreapp3.1\Oop_KeThua_DongVat.dll
+D:\LearnCSharp\Oop_KeThua_DongVat\obj\Debug\netcoreapp3.1\Oop_KeThua_DongVat.pdb
