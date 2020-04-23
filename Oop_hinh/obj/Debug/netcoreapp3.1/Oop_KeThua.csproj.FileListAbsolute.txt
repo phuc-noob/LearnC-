@@ -1,0 +1,11 @@
+D:\LearnCSharp\Oop_hinh\bin\Debug\netcoreapp3.1\Oop_KeThua.exe
+D:\LearnCSharp\Oop_hinh\bin\Debug\netcoreapp3.1\Oop_KeThua.deps.json
+D:\LearnCSharp\Oop_hinh\bin\Debug\netcoreapp3.1\Oop_KeThua.runtimeconfig.json
+D:\LearnCSharp\Oop_hinh\bin\Debug\netcoreapp3.1\Oop_KeThua.runtimeconfig.dev.json
+D:\LearnCSharp\Oop_hinh\bin\Debug\netcoreapp3.1\Oop_KeThua.dll
+D:\LearnCSharp\Oop_hinh\bin\Debug\netcoreapp3.1\Oop_KeThua.pdb
+D:\LearnCSharp\Oop_hinh\obj\Debug\netcoreapp3.1\Oop_KeThua.csprojAssemblyReference.cache
+D:\LearnCSharp\Oop_hinh\obj\Debug\netcoreapp3.1\Oop_KeThua.AssemblyInfoInputs.cache
+D:\LearnCSharp\Oop_hinh\obj\Debug\netcoreapp3.1\Oop_KeThua.AssemblyInfo.cs
+D:\LearnCSharp\Oop_hinh\obj\Debug\netcoreapp3.1\Oop_KeThua.dll
+D:\LearnCSharp\Oop_hinh\obj\Debug\netcoreapp3.1\Oop_KeThua.pdb
